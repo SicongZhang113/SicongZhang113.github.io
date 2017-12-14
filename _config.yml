@@ -4,7 +4,7 @@ email:       sicong3@illinois.edu
 author:      Sicong Zhang
 description: "Personal website for photography."
 baseurl:     ""
-url:         ""
+url:         "https://sicongzhang113.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
