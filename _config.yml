@@ -115,6 +115,12 @@ text:
   og_locale: 'en_US'
 
 # Build settings
+defaults:
+ -scope:
+  path:"images"
+  values:
+  image: ture
+  
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
